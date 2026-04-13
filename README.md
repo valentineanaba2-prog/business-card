@@ -48,7 +48,7 @@ this project was ``hard``
 ~<p>valcon and kleen computers</p>
 
 <!-- images -->
-![kleen computers](images/kleen%20co..png "kleen computer")
+![kleen computers](images/valcon.png "valcon")
 
 <!-- github markdown -->
 
