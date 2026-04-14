@@ -1,54 +1,29 @@
-<!-- heading -->
-# Business card
-considering the background-image the where divs' used in seperating them
-## stylesheet used in designing
+# Business Card
 
+A simple HTML and CSS business card for Valentine Anaba.
 
-<!-- Italics -->
-My name is *Valentine Anaba*
+## Description
 
-<!-- horizontal rule -->
----
-from _Abia State_
----
+This project showcases a digital business card featuring:
+- Name: Valentine Anaba
+- Profession: Medical Doctor and Software Developer
+- Location: Nigeria, Abia State
 
-<!-- Strong -->
-I'm a **medical doctor**
-and a __software developer__
----
+## Technologies Used
 
-<!-- strikethrough -->
-this project was ``hard`` 
-~~scrath that~~
+- HTML5
+- CSS3
 
-<!-- horizontal rule -->
----
+## How to View
 
-<!-- blockquote -->
->_"never give up, just keep pushing and remember have what you have and manage what you get"_. __valentine Anaba__
+Open `index.html` in your web browser to view the business card.
 
-<!-- links -->
-[business card](index.html "Business card")
+## Structure
 
-<!-- UL -->
-* valcon co.
-
-* kleen computers
-
-  * don-val stores etc.
-
-  <!-- heading -->
-#### name of developers
-
-<!-- OL -->
-1. __Valentine Anaba__ (ceo)
-2. Engr. Bright Anaba(ceo kleen com.)
-
-<!-- inline block code -->
-~<p>valcon and kleen computers</p>
-
-<!-- images -->
-![kleen computers](images/valcon.png "valcon")
+- `index.html`: The main HTML file
+- `business-card.css`: The stylesheet
+- `public/images/`: Contains images used in the card
+![valcon](public/images/valcon.png "valcon")
 
 <!-- github markdown -->
 
